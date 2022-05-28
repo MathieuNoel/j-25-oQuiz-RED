@@ -63,5 +63,5 @@ class Vehicule {
     }
 
 }
-
+console.log('LA!')
 module.exports = Vehicule;
